@@ -10,4 +10,5 @@ Here is an image of the website's layout:
 
 Files:
 index.html -> main webpage
+
 styles.css -> styling
